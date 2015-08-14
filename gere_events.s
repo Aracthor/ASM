@@ -2,7 +2,6 @@
 ;; gere_events.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Tue Feb 25 12:30:37 2014 Bonnet Vivien
 ;; Last Update Sun Mar  2 14:26:41 2014 Bonnet Vivien

@@ -2,10 +2,9 @@
 ## Makefile for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ## 
 ## Made by Bonnet Vivien
-## Login   <bonnet_v@epitech.net>
 ## 
 ## Started on  Tue Feb 25 08:01:48 2014 Bonnet Vivien
-## Last Update Fri Nov 28 08:47:26 2014 
+## Last Update Fri Nov 28 08:47:26 2014 Bonnet Vivien
 ##
 
 CC=	gcc

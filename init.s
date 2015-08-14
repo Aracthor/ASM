@@ -2,7 +2,6 @@
 ;; init.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Tue Feb 25 12:12:15 2014 Bonnet Vivien
 ;; Last Update Tue Mar  4 09:00:43 2014 Bonnet Vivien

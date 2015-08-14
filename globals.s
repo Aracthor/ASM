@@ -2,7 +2,6 @@
 ;; globals.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Tue Feb 25 12:12:29 2014 Bonnet Vivien
 ;; Last Update Tue Mar  4 09:00:34 2014 Bonnet Vivien

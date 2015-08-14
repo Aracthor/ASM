@@ -2,7 +2,6 @@
 ** view.c for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ** 
 ** Made by Bonnet Vivien
-** Login   <bonnet_v@epitech.net>
 ** 
 ** Started on  Sat Mar  1 17:09:44 2014 Bonnet Vivien
 ** Last Update Sat Mar  1 17:13:55 2014 Bonnet Vivien

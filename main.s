@@ -2,7 +2,6 @@
 ;; main.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Tue Feb 25 12:12:21 2014 Bonnet Vivien
 ;; Last Update Mon Mar  3 17:55:32 2014 Bonnet Vivien

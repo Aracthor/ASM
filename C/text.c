@@ -2,7 +2,6 @@
 ** text.c for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ** 
 ** Made by Bonnet Vivien
-** Login   <bonnet_v@epitech.net>
 ** 
 ** Started on  Mon Mar  3 18:32:19 2014 Bonnet Vivien
 ** Last Update Mon Mar  3 18:38:31 2014 Bonnet Vivien

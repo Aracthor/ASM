@@ -2,7 +2,6 @@
 ;; image.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Sat Mar  1 10:19:42 2014 Bonnet Vivien
 ;; Last Update Sat Mar  1 12:01:47 2014 Bonnet Vivien

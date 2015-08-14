@@ -2,7 +2,6 @@
 ;; list.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Sat Mar  1 18:59:52 2014 Bonnet Vivien
 ;; Last Update Mon Mar  3 19:19:18 2014 Bonnet Vivien

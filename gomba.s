@@ -2,7 +2,6 @@
 ;; gomba.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Mon Mar  3 08:58:28 2014 Bonnet Vivien
 ;; Last Update Mon Mar  3 16:42:33 2014 Bonnet Vivien

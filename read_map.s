@@ -2,7 +2,6 @@
 ;; read_map.s for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ;; 
 ;; Made by Bonnet Vivien
-;; Login   <bonnet_v@epitech.net>
 ;; 
 ;; Started on  Tue Feb 25 19:24:38 2014 Bonnet Vivien
 ;; Last Update Mon Mar  3 16:36:26 2014 Bonnet Vivien

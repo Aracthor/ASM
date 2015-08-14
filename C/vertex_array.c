@@ -2,7 +2,6 @@
 ** vertex_array.c for ASM in /home/bonnet_v/programs/projects/asm/ASM
 ** 
 ** Made by Bonnet Vivien
-** Login   <bonnet_v@epitech.net>
 ** 
 ** Started on  Thu Feb 27 10:45:03 2014 Bonnet Vivien
 ** Last Update Thu Feb 27 10:46:38 2014 Bonnet Vivien
