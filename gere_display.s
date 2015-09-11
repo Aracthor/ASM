@@ -4,7 +4,7 @@
 ;; Made by Bonnet Vivien
 ;; 
 ;; Started on  Tue Feb 25 12:30:37 2014 Bonnet Vivien
-;; Last Update Mon Mar  3 18:49:06 2014 Bonnet Vivien
+;; Last Update Fri Sep 11 20:19:10 2015 Aracthor
 ;;
 
 %include	"CSFML/Graphics.inc"
@@ -13,11 +13,6 @@
 %include	"CSFML/Window.inc"
 %include	"globals.inc"
 %include	"params.inc"
-
-;;; DEBUG
-%include	"libc/stdio.inc"
-section	.rodata
-str:	db	"YOLO %p",0x0A,0
 
 
 section	.text

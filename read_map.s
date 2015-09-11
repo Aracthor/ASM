@@ -4,13 +4,8 @@
 ;; Made by Bonnet Vivien
 ;; 
 ;; Started on  Tue Feb 25 19:24:38 2014 Bonnet Vivien
-;; Last Update Mon Mar  3 16:36:26 2014 Bonnet Vivien
+;; Last Update Fri Sep 11 20:19:28 2015 Aracthor
 ;;
-
-;;; DEBUG
-%include "libc/stdio.inc"
-section	.rodata
-string:	db	"%ld, %p, %ld",0x0A,0
 
 %include "libc/fcntl.inc"
 %include "libc/stdlib.inc"
@@ -20,6 +15,7 @@ string:	db	"%ld, %p, %ld",0x0A,0
 %include "parse.inc"
 
 %define	BUFFER_SIZE	0x3000
+
 
 section	.rodata
 

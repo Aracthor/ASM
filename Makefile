@@ -4,7 +4,7 @@
 ## Made by Bonnet Vivien
 ## 
 ## Started on  Tue Feb 25 08:01:48 2014 Bonnet Vivien
-## Last Update Fri Nov 28 08:47:26 2014 Bonnet Vivien
+## Last Update Fri Sep 11 20:19:56 2015 Aracthor
 ##
 
 CC=	gcc
@@ -41,7 +41,6 @@ ASRCS=	action.s	\
 	gere_events.s	\
 	globals.s	\
 	gomba.s		\
-	image.s		\
 	init.s		\
 	list.s		\
 	main.s		\

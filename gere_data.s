@@ -4,7 +4,7 @@
 ;; Made by Bonnet Vivien
 ;; 
 ;; Started on  Tue Feb 25 12:30:37 2014 Bonnet Vivien
-;; Last Update Tue Mar  4 09:23:49 2014 Bonnet Vivien
+;; Last Update Fri Sep 11 20:18:58 2015 Aracthor
 ;;
 
 %include	"CSFML/Audio.inc"
@@ -19,11 +19,6 @@
 %include	"params.inc"
 %include	"player.inc"
 %include	"score.inc"
-
-;;; DEBUG
-%include	"libc/stdio.inc"
-section	.rodata
-str:	db	"YOLO 0x%X, 0x%X",0x0A,0
 
 
 section	.rodata

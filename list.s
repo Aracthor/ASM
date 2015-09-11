@@ -4,16 +4,11 @@
 ;; Made by Bonnet Vivien
 ;; 
 ;; Started on  Sat Mar  1 18:59:52 2014 Bonnet Vivien
-;; Last Update Mon Mar  3 19:19:18 2014 Bonnet Vivien
+;; Last Update Fri Sep 11 20:19:17 2015 Aracthor
 ;;
 
 %include	"libc/stdlib.inc"
 %include	"globals.inc"
-
-;;; DEBUG
-%include	"libc/stdio.inc"
-section	.rodata
-str:	db	"YOLO %p, %p",0x0A,0
 
 
 section	.text
